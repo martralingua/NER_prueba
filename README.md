@@ -7,3 +7,5 @@ Repo NER Arrancando
 🌿 Ask me about: language
 ✉️ How to reach me: marta.f.lingua@gmail.com
 🌞 Fun fact: 40 degrees in Madrid
+
+Hoy voy a trabajar ocn Spacy
