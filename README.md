@@ -9,3 +9,5 @@ Repo NER Arrancando
 🌞 Fun fact: 40 degrees in Madrid
 
 Hoy voy a trabajar ocn Spacy
+import nltk
+import spacy
